@@ -72,4 +72,5 @@ class MyController {
 }
 ```
 ## Output:
-![image](https://github.com/user-attachments/assets/4c215331-45ef-4213-9578-75ae5719bf5f)
+![Screenshot (107)](https://github.com/user-attachments/assets/184d03b1-0ec3-428d-9969-5c21bf323c27)
+
